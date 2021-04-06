@@ -1,0 +1,852 @@
+
+[10/30 20:31:34] rm a
+File a has been deleted
+
+[10/30 20:31:49] write a ¦*œ_
+4 bytes of data were written to file a
+
+[10/30 20:32:4] write a hello guys
+10 bytes of data were written to file a
+
+[10/31 12:58:59] cat abc -100
+File abc has been created 
+
+[10/31 12:59:8] cat abc 0
+
+[10/31 12:59:15] cat abc 1
+
+
+[10/31 12:59:27] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_server.o
+.gitattributes
+hw2_xdr.o
+.gitignore
+a
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+hw2_server.c
+.DS_Store
+abc
+..
+.
+
+[11/13 18:50:23] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_server.o
+.gitattributes
+hw2_xdr.o
+.gitignore
+a
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+hw2_server.c
+.DS_Store
+abc
+..
+.
+
+[11/13 18:57:24] find a 
+File a has 10 bytes
+
+[11/13 18:57:47] cat a -100
+
+[11/13 18:57:51] cat a 2
+he
+
+[11/13 18:58:3] write a av
+2 bytes of data were written to file a
+
+[11/13 18:58:8] cat a 20
+av
+
+[11/13 18:58:13] cat a 3
+av
+
+[11/13 18:58:20] cat abc 3
+
+
+[11/13 18:58:24] cat abc 1
+
+
+[11/13 18:58:26] cat abc -100
+
+[11/15 11:11:59] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_server.o
+hw2_xdr.o
+a
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+hw2_server.c
+.DS_Store
+abc
+..
+.
+
+[11/15 11:17:11] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_server.o
+hw2_xdr.o
+a
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+hw2_server.c
+.DS_Store
+abc
+..
+.
+
+[11/15 11:19:3] cat a -100
+
+[11/15 11:19:9] cat a 10
+av
+
+[11/15 11:19:14] cat abc 10
+
+
+[11/15 11:19:23] cat abc -100
+
+[11/15 11:19:30] cat abc 0
+
+[11/15 11:19:34] cat abc 0
+
+[11/15 11:20:8] write abc Hello World
+11 bytes of data were written to file abc
+
+[11/15 11:20:22] cat abc 11
+Hello World
+
+[11/15 11:20:46] find abc 
+File abc has 11 bytes
+
+[11/15 11:21:24] rm a
+File a has been deleted
+
+[11/15 12:32:38] write abc Hello WOrld
+11 bytes of data were written to file abc
+
+[11/15 12:34:11] write a hello
+5 bytes of data were written to file a
+
+[11/15 12:44:31] cp abc 0
+
+[11/15 12:44:40] cp abc 0
+
+[11/15 12:44:55] cp abc 0
+
+[11/15 12:45:37] cp abc.txt 0
+
+[11/15 12:45:45] cp abc.txt 0
+
+[11/15 12:54:53] cp abc.txt 0
+
+[11/15 12:59:23] cp abc.txt 0
+
+[11/15 16:5:0] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_xdr.o
+a.txt
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+abc.txt
+hw2_server.c
+.DS_Store
+..
+.
+
+[11/15 16:5:3] pwd 
+
+[11/15 16:5:11] cat abc 10
+File abc has been created 
+
+[11/15 16:5:25] cat abc.txt 10
+Hello WOrl
+
+[11/15 16:8:47] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_xdr.o
+a.txt
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+abc.txt
+hw2_server.c
+.DS_Store
+..
+.
+
+[11/15 16:8:59] pwd 
+
+[11/15 16:16:8] pwd 
+
+[11/15 16:16:11] ls 
+hw2_clnt.c
+client
+server.log
+hw2.x
+hw2_client.c
+hw2_svc.c
+hw2_xdr.o
+a.txt
+server
+hw2_clnt.o
+hw2_svc.o
+hw2.h
+makefile
+hw2_client.o
+hw2_xdr.c
+abc.txt
+hw2_server.c
+.DS_Store
+..
+.
+
+[11/15 16:16:18] cat abc 10
+File abc has been created 
+
+[11/15 16:16:56] cp abc.txt 0
+
+[11/15 16:53:3] ls 
+dis_xdr.c
+client
+server.log
+dis_clnt.o
+dis.x
+a.txt
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+abc.txt
+dis.h
+.DS_Store
+dis_clnt.c
+dis_svc.c
+abc
+..
+.
+
+[11/15 16:53:6] pwd 
+
+[11/15 16:53:25] cp abc 0
+
+[11/15 16:53:34] cat abc 11
+Hello WOrld
+
+[11/15 17:45:51] cp a -100
+
+[11/15 17:45:58] cp abc -100
+
+[11/15 17:46:8] pwd 
+
+[11/15 17:46:19] cat a 11
+File a has been created 
+
+[11/15 17:47:17] cat a -100
+File a has been created 
+
+[11/15 17:47:29] write a Hello World
+11 bytes of data were written to file a
+
+[11/15 19:49:33] ls 
+dis_xdr.c
+client
+server.log
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+a
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_svc.c
+..
+.
+
+[11/15 19:49:37] pwd 
+
+[11/15 19:49:53] cat xyz 3
+File xyz has been created 
+
+[11/15 19:50:10] write Hello World
+5 bytes of data were written to file Hello
+
+[11/15 19:51:17] find xyz 
+File xyz has 0 bytes
+
+[11/15 20:42:22] ls 
+dis_xdr.c
+client
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+a
+dis_xdr.o
+server
+xyz
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_svc.c
+..
+.
+
+[11/15 21:30:53] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+a
+dis_xdr.o
+server
+xyz
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/15 21:31:32] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+a
+dis_xdr.o
+server
+xyz
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/15 21:31:53] pwd 
+
+[11/15 21:32:36] pwd 
+
+[11/15 21:33:33] pwd 
+
+[11/15 21:51:32] pwd 
+
+[11/15 22:11:25] ls 
+dis_xdr.c
+client
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+a
+dis_xdr.o
+server
+xyz
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/15 22:11:27] pwd 
+
+[11/15 22:11:35] cat a 10
+Hello Worl
+
+[11/22 20:30:41] cp Hello 0
+
+[11/22 20:31:55] pwd 
+
+[11/22 22:18:13] pwd 
+
+[11/22 22:46:22] write abc Hello World
+11 bytes of data were written to file abc
+
+[11/22 22:47:17] cat abc 11
+Hello WorldEþ
+
+[11/22 22:47:42] cat abc 10
+Hello Worl
+
+[11/22 22:47:45] cat abc 11
+Hello World
+
+[11/22 22:50:33] pwd 
+
+[11/22 22:51:0] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+abc
+..
+.
+
+[11/22 22:51:53] rm abc
+File abc has been deleted
+
+[11/22 22:52:17] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:0:35] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:3:23] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:3:54] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:5:7] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:5:20] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:5:55] find Hello 
+File Hello has 5 bytes
+
+[11/22 23:6:13] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:6:56] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:7:35] ls 
+dis_xdr.c
+client
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:7:41] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:8:0] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:8:15] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:8:35] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:9:13] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:9:42] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/22 23:52:25] cat Hello 5
+World
+
+[11/23 14:2:58] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/23 14:3:2] pwd 
+
+[11/23 14:3:27] pwd 
+
+[11/23 14:3:40] cp Hello 0
+
+[11/23 14:13:51] pwd 
+
+[11/23 14:13:56] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+abc.txt
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+..
+.
+
+[11/23 14:14:53] write xyz.txt Hello
+5 bytes of data were written to file xyz.txt
+
+[11/23 14:15:17] cat xyz.txt -100
+
+[11/23 14:15:24] cat xyz.txt 5
+Hello
+
+[11/23 14:21:8] cat xyz.txt 5
+Hello
+
+[11/23 14:28:23] cp xyz.txt 0
+
+[11/23 14:28:44] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+Hello
+now.txt
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+xyz.txt
+..
+.
+
+[11/23 14:30:47] cat xyz.txt -100
+
+[11/23 14:30:51] cat xyz.txt 5
+Hello
+
+[11/23 14:36:9] rm Hello
+File Hello has been deleted
+
+[11/23 14:42:42] cat xyz.txt 5
+Hello
+
+[11/23 14:47:45] ls 
+dis_xdr.c
+client
+dis_client.o
+server.log
+now.txt
+dis_clnt.o
+dis.x
+dis_server.c
+dis_svc.o
+dis_client.c
+dis_xdr.o
+server
+makefile
+dis.h
+.DS_Store
+dis_clnt.c
+dis_server.o
+dis_svc.c
+xyz.txt
+..
+.
+
+[11/23 14:48:8] pwd 
+
+[11/23 14:49:3] cat xyz.txt 5
+Hello
+
+[11/23 14:49:40] cp xyz.txt 0
+
+[11/23 14:50:1] rm a.txt
+File a.txt has been deleted
+
+[11/23 14:50:25] find xyz.txt 
+File xyz.txt has 5 bytes
+
+[11/23 14:50:50] pwd 
